@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="SynapSpec" width="200"/>
 </p>
 
-<h1 align="center">SynapSpec</h1>
+<h1 align="center">SpectraLens</h1>
 
 <p align="center">
     Targeted DIA peak inspection software for quickly checking precursor and fragment peaks in raw mass spectrometry files.
